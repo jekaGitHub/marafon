@@ -1,0 +1,199 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #FFFFFF;
+
+  font-family: "Montserrat", "Verdana", sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #AE7C78;
+}
+
+h1, h2, h3 {
+  font-family: "Playfair Display", "Palatino", serif;
+  font-style: normal;
+}
+
+h2 {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 48px;
+
+  letter-spacing: 0.02em;
+}
+
+.button {
+  background: #D89999;
+  border-radius: 40px;
+}
+
+.main-nav ul li a {
+  line-height: 20px;
+
+  color: #AE7C78;
+
+  text-align: center;
+  text-decoration: none;
+}
+
+.intro h1 {
+  font-weight: normal;
+  font-size: 44px;
+  line-height: 59px;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.intro p {
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.intro a {
+  line-height: 20px;
+  text-decoration: none;
+
+  padding: 30px 69px 30px 70px;
+
+  color: #FFFFFF;
+}
+
+.intro dl {
+  line-height: 20px;
+}
+
+.intro dl div dt {
+  font-weight: 500;
+}
+
+.popular .slider_item-description h3, .popular .slider_item-description span {
+  font-weight: 500;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.popular .slider_item-description a {
+  line-height: 20px;
+  text-decoration: none;
+
+  padding: 30px 107px 30px 105px;
+
+  color: #FFFFFF;
+}
+
+.catalog {
+  text-align: center;
+}
+
+.catalog a {
+  text-decoration: none;
+}
+
+.catalog h3 {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 48px;
+
+  color: #FFFFFF;
+
+  letter-spacing: 0.02em;
+}
+
+.catalog p {
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #FFFFFF;
+}
+
+.discount {
+  background: #AE7C78;
+  color: #FFFFFF;
+}
+
+.discount h2 {
+  font-size: 44px;
+  font-weight: normal;
+  line-height: 59px;
+}
+
+.discount p {
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.steps {
+  text-align: center;
+}
+
+.steps h3 {
+  font-family: "Montserrat", "Verdana", sans-serif;
+  font-style: normal;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 20px;
+}
+
+.steps p {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.news p {
+  font-size: 24px;
+  line-height: 29px;
+}
+
+.news ul li a {
+  color: #D89999;
+  text-decoration: none;
+}
+
+.reviews {
+  text-align: center;
+}
+
+.reviews blockquote {
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.reviews blockquote cite {
+  font-weight: 500;
+  font-style: normal;
+}
+
+.contacts h3 {
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 48px;
+}
+
+.contacts div ul li span {
+  font-weight: 500;
+}
+
+.contacts div ul li span a {
+  text-decoration: none;
+  
+  color: #AE7C78;
+}
+
+.footer-menu {
+  background: #AE7C78;
+}
+
+.footer-menu a {
+  text-decoration: none;
+  text-align: center;
+
+  color: #FFFFFF;
+}
